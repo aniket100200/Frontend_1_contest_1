@@ -99,3 +99,7 @@ outline: none;
     display: flex;
     justify-content: space-around;
 }
+
+#love{
+    color:##FCAF02;
+}
